@@ -1,0 +1,2016 @@
+fileFormatVersion: 2
+guid: 8b0cbfe1516f0354592374482e3a33b3
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: barbarian
+  - first:
+      1: 100002
+    second: barbarian_arm plate_01_L
+  - first:
+      1: 100004
+    second: barbarian_arm plate_01_R
+  - first:
+      1: 100006
+    second: barbarian_arm plate_02_L
+  - first:
+      1: 100008
+    second: barbarian_arm plate_02_R
+  - first:
+      1: 100010
+    second: barbarian_axe_01
+  - first:
+      1: 100012
+    second: barbarian_axe_02
+  - first:
+      1: 100014
+    second: barbarian_axe_03
+  - first:
+      1: 100016
+    second: barbarian_belt
+  - first:
+      1: 100018
+    second: barbarian_boot_01
+  - first:
+      1: 100020
+    second: barbarian_boot_02
+  - first:
+      1: 100022
+    second: barbarian_cloth_01
+  - first:
+      1: 100024
+    second: barbarian_cloth_02
+  - first:
+      1: 100026
+    second: barbarian_cloth_03
+  - first:
+      1: 100028
+    second: barbarian_club_01
+  - first:
+      1: 100030
+    second: barbarian_club_02
+  - first:
+      1: 100032
+    second: barbarian_club_03
+  - first:
+      1: 100034
+    second: barbarian_fat
+  - first:
+      1: 100036
+    second: barbarian_fat_cloth_01
+  - first:
+      1: 100038
+    second: barbarian_fat_cloth_02
+  - first:
+      1: 100040
+    second: barbarian_gladiator_01
+  - first:
+      1: 100042
+    second: barbarian_hair_01
+  - first:
+      1: 100044
+    second: barbarian_hammer_01
+  - first:
+      1: 100046
+    second: barbarian_helmet_01
+  - first:
+      1: 100048
+    second: barbarian_helmet_02
+  - first:
+      1: 100050
+    second: barbarian_helmet_03
+  - first:
+      1: 100052
+    second: barbarian_helmet_04
+  - first:
+      1: 100054
+    second: barbarian_knee_pad_L
+  - first:
+      1: 100056
+    second: barbarian_knee_pad_R
+  - first:
+      1: 100058
+    second: barbarian_leg plate_L
+  - first:
+      1: 100060
+    second: barbarian_leg plate_R
+  - first:
+      1: 100062
+    second: barbarian_shield
+  - first:
+      1: 100064
+    second: barbarian_shoulder pad_01_L
+  - first:
+      1: 100066
+    second: barbarian_shoulder pad_01_R
+  - first:
+      1: 100068
+    second: barbarian_shoulder pad_02_L
+  - first:
+      1: 100070
+    second: barbarian_shoulder pad_02_R
+  - first:
+      1: 100072
+    second: barbarian_shoulder pad_03_L
+  - first:
+      1: 100074
+    second: barbarian_shoulder pad_03_R
+  - first:
+      1: 100076
+    second: barbarian_shoulder pad_04_L
+  - first:
+      1: 100078
+    second: barbarian_shoulder pad_04_R
+  - first:
+      1: 100080
+    second: barbarian_skn
+  - first:
+      1: 100082
+    second: barbarian_spear
+  - first:
+      1: 100084
+    second: barbarian_sword_01
+  - first:
+      1: 100086
+    second: barbarian_sword_02
+  - first:
+      1: 100088
+    second: barbarian_sword_03
+  - first:
+      1: 100090
+    second: barbarian_sword_04
+  - first:
+      1: 100092
+    second: barbarian_sword_gladius
+  - first:
+      1: 100094
+    second: Barbarian_weaponL
+  - first:
+      1: 100096
+    second: Barbarian_weaponR
+  - first:
+      1: 100098
+    second: Barbariancloth_back
+  - first:
+      1: 100100
+    second: Barbariancloth_front
+  - first:
+      1: 100102
+    second: BarbarianHead
+  - first:
+      1: 100104
+    second: BarbarianLCalf
+  - first:
+      1: 100106
+    second: BarbarianLCollarbone
+  - first:
+      1: 100108
+    second: BarbarianLDigit11
+  - first:
+      1: 100110
+    second: BarbarianLDigit11 1
+  - first:
+      1: 100112
+    second: BarbarianLDigit12
+  - first:
+      1: 100114
+    second: BarbarianLDigit13
+  - first:
+      1: 100116
+    second: BarbarianLDigit21
+  - first:
+      1: 100118
+    second: BarbarianLDigit22
+  - first:
+      1: 100120
+    second: BarbarianLDigit23
+  - first:
+      1: 100122
+    second: BarbarianLDigit31
+  - first:
+      1: 100124
+    second: BarbarianLDigit32
+  - first:
+      1: 100126
+    second: BarbarianLDigit33
+  - first:
+      1: 100128
+    second: BarbarianLFoot
+  - first:
+      1: 100130
+    second: BarbarianLForearm
+  - first:
+      1: 100132
+    second: BarbarianLPalm
+  - first:
+      1: 100134
+    second: BarbarianLThigh
+  - first:
+      1: 100136
+    second: BarbarianLUpperarm
+  - first:
+      1: 100138
+    second: BarbarianNeck
+  - first:
+      1: 100140
+    second: BarbarianPelvis
+  - first:
+      1: 100142
+    second: BarbarianRCalf
+  - first:
+      1: 100144
+    second: BarbarianRCollarbone
+  - first:
+      1: 100146
+    second: BarbarianRDigit11
+  - first:
+      1: 100148
+    second: BarbarianRDigit11 1
+  - first:
+      1: 100150
+    second: BarbarianRDigit12
+  - first:
+      1: 100152
+    second: BarbarianRDigit13
+  - first:
+      1: 100154
+    second: BarbarianRDigit21
+  - first:
+      1: 100156
+    second: BarbarianRDigit22
+  - first:
+      1: 100158
+    second: BarbarianRDigit23
+  - first:
+      1: 100160
+    second: BarbarianRDigit31
+  - first:
+      1: 100162
+    second: BarbarianRDigit32
+  - first:
+      1: 100164
+    second: BarbarianRDigit33
+  - first:
+      1: 100166
+    second: BarbarianRFoot
+  - first:
+      1: 100168
+    second: BarbarianRForearm
+  - first:
+      1: 100170
+    second: BarbarianRibcage
+  - first:
+      1: 100172
+    second: BarbarianRPalm
+  - first:
+      1: 100174
+    second: BarbarianRThigh
+  - first:
+      1: 100176
+    second: BarbarianRUpperarm
+  - first:
+      1: 100178
+    second: //RootNode
+  - first:
+      1: 100180
+    second: BarbarianSpine1
+  - first:
+      1: 100182
+    second: BarbarianSpine2
+  - first:
+      1: 100184
+    second: BarbarianSpine3
+  - first:
+      1: 100186
+    second: bon_gob_war_face
+  - first:
+      1: 100188
+    second: bon_gob_war_jaw
+  - first:
+      4: 400000
+    second: barbarian
+  - first:
+      4: 400002
+    second: barbarian_arm plate_01_L
+  - first:
+      4: 400004
+    second: barbarian_arm plate_01_R
+  - first:
+      4: 400006
+    second: barbarian_arm plate_02_L
+  - first:
+      4: 400008
+    second: barbarian_arm plate_02_R
+  - first:
+      4: 400010
+    second: barbarian_axe_01
+  - first:
+      4: 400012
+    second: barbarian_axe_02
+  - first:
+      4: 400014
+    second: barbarian_axe_03
+  - first:
+      4: 400016
+    second: barbarian_belt
+  - first:
+      4: 400018
+    second: barbarian_boot_01
+  - first:
+      4: 400020
+    second: barbarian_boot_02
+  - first:
+      4: 400022
+    second: barbarian_cloth_01
+  - first:
+      4: 400024
+    second: barbarian_cloth_02
+  - first:
+      4: 400026
+    second: barbarian_cloth_03
+  - first:
+      4: 400028
+    second: barbarian_club_01
+  - first:
+      4: 400030
+    second: barbarian_club_02
+  - first:
+      4: 400032
+    second: barbarian_club_03
+  - first:
+      4: 400034
+    second: barbarian_fat
+  - first:
+      4: 400036
+    second: barbarian_fat_cloth_01
+  - first:
+      4: 400038
+    second: barbarian_fat_cloth_02
+  - first:
+      4: 400040
+    second: barbarian_gladiator_01
+  - first:
+      4: 400042
+    second: barbarian_hair_01
+  - first:
+      4: 400044
+    second: barbarian_hammer_01
+  - first:
+      4: 400046
+    second: barbarian_helmet_01
+  - first:
+      4: 400048
+    second: barbarian_helmet_02
+  - first:
+      4: 400050
+    second: barbarian_helmet_03
+  - first:
+      4: 400052
+    second: barbarian_helmet_04
+  - first:
+      4: 400054
+    second: barbarian_knee_pad_L
+  - first:
+      4: 400056
+    second: barbarian_knee_pad_R
+  - first:
+      4: 400058
+    second: barbarian_leg plate_L
+  - first:
+      4: 400060
+    second: barbarian_leg plate_R
+  - first:
+      4: 400062
+    second: barbarian_shield
+  - first:
+      4: 400064
+    second: barbarian_shoulder pad_01_L
+  - first:
+      4: 400066
+    second: barbarian_shoulder pad_01_R
+  - first:
+      4: 400068
+    second: barbarian_shoulder pad_02_L
+  - first:
+      4: 400070
+    second: barbarian_shoulder pad_02_R
+  - first:
+      4: 400072
+    second: barbarian_shoulder pad_03_L
+  - first:
+      4: 400074
+    second: barbarian_shoulder pad_03_R
+  - first:
+      4: 400076
+    second: barbarian_shoulder pad_04_L
+  - first:
+      4: 400078
+    second: barbarian_shoulder pad_04_R
+  - first:
+      4: 400080
+    second: barbarian_skn
+  - first:
+      4: 400082
+    second: barbarian_spear
+  - first:
+      4: 400084
+    second: barbarian_sword_01
+  - first:
+      4: 400086
+    second: barbarian_sword_02
+  - first:
+      4: 400088
+    second: barbarian_sword_03
+  - first:
+      4: 400090
+    second: barbarian_sword_04
+  - first:
+      4: 400092
+    second: barbarian_sword_gladius
+  - first:
+      4: 400094
+    second: Barbarian_weaponL
+  - first:
+      4: 400096
+    second: Barbarian_weaponR
+  - first:
+      4: 400098
+    second: Barbariancloth_back
+  - first:
+      4: 400100
+    second: Barbariancloth_front
+  - first:
+      4: 400102
+    second: BarbarianHead
+  - first:
+      4: 400104
+    second: BarbarianLCalf
+  - first:
+      4: 400106
+    second: BarbarianLCollarbone
+  - first:
+      4: 400108
+    second: BarbarianLDigit11
+  - first:
+      4: 400110
+    second: BarbarianLDigit11 1
+  - first:
+      4: 400112
+    second: BarbarianLDigit12
+  - first:
+      4: 400114
+    second: BarbarianLDigit13
+  - first:
+      4: 400116
+    second: BarbarianLDigit21
+  - first:
+      4: 400118
+    second: BarbarianLDigit22
+  - first:
+      4: 400120
+    second: BarbarianLDigit23
+  - first:
+      4: 400122
+    second: BarbarianLDigit31
+  - first:
+      4: 400124
+    second: BarbarianLDigit32
+  - first:
+      4: 400126
+    second: BarbarianLDigit33
+  - first:
+      4: 400128
+    second: BarbarianLFoot
+  - first:
+      4: 400130
+    second: BarbarianLForearm
+  - first:
+      4: 400132
+    second: BarbarianLPalm
+  - first:
+      4: 400134
+    second: BarbarianLThigh
+  - first:
+      4: 400136
+    second: BarbarianLUpperarm
+  - first:
+      4: 400138
+    second: BarbarianNeck
+  - first:
+      4: 400140
+    second: BarbarianPelvis
+  - first:
+      4: 400142
+    second: BarbarianRCalf
+  - first:
+      4: 400144
+    second: BarbarianRCollarbone
+  - first:
+      4: 400146
+    second: BarbarianRDigit11
+  - first:
+      4: 400148
+    second: BarbarianRDigit11 1
+  - first:
+      4: 400150
+    second: BarbarianRDigit12
+  - first:
+      4: 400152
+    second: BarbarianRDigit13
+  - first:
+      4: 400154
+    second: BarbarianRDigit21
+  - first:
+      4: 400156
+    second: BarbarianRDigit22
+  - first:
+      4: 400158
+    second: BarbarianRDigit23
+  - first:
+      4: 400160
+    second: BarbarianRDigit31
+  - first:
+      4: 400162
+    second: BarbarianRDigit32
+  - first:
+      4: 400164
+    second: BarbarianRDigit33
+  - first:
+      4: 400166
+    second: BarbarianRFoot
+  - first:
+      4: 400168
+    second: BarbarianRForearm
+  - first:
+      4: 400170
+    second: BarbarianRibcage
+  - first:
+      4: 400172
+    second: BarbarianRPalm
+  - first:
+      4: 400174
+    second: BarbarianRThigh
+  - first:
+      4: 400176
+    second: BarbarianRUpperarm
+  - first:
+      4: 400178
+    second: //RootNode
+  - first:
+      4: 400180
+    second: BarbarianSpine1
+  - first:
+      4: 400182
+    second: BarbarianSpine2
+  - first:
+      4: 400184
+    second: BarbarianSpine3
+  - first:
+      4: 400186
+    second: bon_gob_war_face
+  - first:
+      4: 400188
+    second: bon_gob_war_jaw
+  - first:
+      23: 2300000
+    second: barbarian_arm plate_01_L
+  - first:
+      23: 2300002
+    second: barbarian_arm plate_01_R
+  - first:
+      23: 2300004
+    second: barbarian_arm plate_02_L
+  - first:
+      23: 2300006
+    second: barbarian_arm plate_02_R
+  - first:
+      23: 2300008
+    second: barbarian_axe_01
+  - first:
+      23: 2300010
+    second: barbarian_axe_02
+  - first:
+      23: 2300012
+    second: barbarian_axe_03
+  - first:
+      23: 2300014
+    second: barbarian_belt
+  - first:
+      23: 2300016
+    second: barbarian_club_01
+  - first:
+      23: 2300018
+    second: barbarian_club_02
+  - first:
+      23: 2300020
+    second: barbarian_club_03
+  - first:
+      23: 2300022
+    second: barbarian_gladiator_01
+  - first:
+      23: 2300024
+    second: barbarian_hammer_01
+  - first:
+      23: 2300026
+    second: barbarian_helmet_01
+  - first:
+      23: 2300028
+    second: barbarian_helmet_02
+  - first:
+      23: 2300030
+    second: barbarian_helmet_03
+  - first:
+      23: 2300032
+    second: barbarian_helmet_04
+  - first:
+      23: 2300034
+    second: barbarian_knee_pad_L
+  - first:
+      23: 2300036
+    second: barbarian_knee_pad_R
+  - first:
+      23: 2300038
+    second: barbarian_leg plate_L
+  - first:
+      23: 2300040
+    second: barbarian_leg plate_R
+  - first:
+      23: 2300042
+    second: barbarian_shield
+  - first:
+      23: 2300044
+    second: barbarian_shoulder pad_01_L
+  - first:
+      23: 2300046
+    second: barbarian_shoulder pad_01_R
+  - first:
+      23: 2300048
+    second: barbarian_shoulder pad_02_L
+  - first:
+      23: 2300050
+    second: barbarian_shoulder pad_02_R
+  - first:
+      23: 2300052
+    second: barbarian_shoulder pad_03_L
+  - first:
+      23: 2300054
+    second: barbarian_shoulder pad_03_R
+  - first:
+      23: 2300056
+    second: barbarian_shoulder pad_04_L
+  - first:
+      23: 2300058
+    second: barbarian_shoulder pad_04_R
+  - first:
+      23: 2300060
+    second: barbarian_spear
+  - first:
+      23: 2300062
+    second: barbarian_sword_01
+  - first:
+      23: 2300064
+    second: barbarian_sword_02
+  - first:
+      23: 2300066
+    second: barbarian_sword_03
+  - first:
+      23: 2300068
+    second: barbarian_sword_04
+  - first:
+      23: 2300070
+    second: barbarian_sword_gladius
+  - first:
+      33: 3300000
+    second: barbarian_arm plate_01_L
+  - first:
+      33: 3300002
+    second: barbarian_arm plate_01_R
+  - first:
+      33: 3300004
+    second: barbarian_arm plate_02_L
+  - first:
+      33: 3300006
+    second: barbarian_arm plate_02_R
+  - first:
+      33: 3300008
+    second: barbarian_axe_01
+  - first:
+      33: 3300010
+    second: barbarian_axe_02
+  - first:
+      33: 3300012
+    second: barbarian_axe_03
+  - first:
+      33: 3300014
+    second: barbarian_belt
+  - first:
+      33: 3300016
+    second: barbarian_club_01
+  - first:
+      33: 3300018
+    second: barbarian_club_02
+  - first:
+      33: 3300020
+    second: barbarian_club_03
+  - first:
+      33: 3300022
+    second: barbarian_gladiator_01
+  - first:
+      33: 3300024
+    second: barbarian_hammer_01
+  - first:
+      33: 3300026
+    second: barbarian_helmet_01
+  - first:
+      33: 3300028
+    second: barbarian_helmet_02
+  - first:
+      33: 3300030
+    second: barbarian_helmet_03
+  - first:
+      33: 3300032
+    second: barbarian_helmet_04
+  - first:
+      33: 3300034
+    second: barbarian_knee_pad_L
+  - first:
+      33: 3300036
+    second: barbarian_knee_pad_R
+  - first:
+      33: 3300038
+    second: barbarian_leg plate_L
+  - first:
+      33: 3300040
+    second: barbarian_leg plate_R
+  - first:
+      33: 3300042
+    second: barbarian_shield
+  - first:
+      33: 3300044
+    second: barbarian_shoulder pad_01_L
+  - first:
+      33: 3300046
+    second: barbarian_shoulder pad_01_R
+  - first:
+      33: 3300048
+    second: barbarian_shoulder pad_02_L
+  - first:
+      33: 3300050
+    second: barbarian_shoulder pad_02_R
+  - first:
+      33: 3300052
+    second: barbarian_shoulder pad_03_L
+  - first:
+      33: 3300054
+    second: barbarian_shoulder pad_03_R
+  - first:
+      33: 3300056
+    second: barbarian_shoulder pad_04_L
+  - first:
+      33: 3300058
+    second: barbarian_shoulder pad_04_R
+  - first:
+      33: 3300060
+    second: barbarian_spear
+  - first:
+      33: 3300062
+    second: barbarian_sword_01
+  - first:
+      33: 3300064
+    second: barbarian_sword_02
+  - first:
+      33: 3300066
+    second: barbarian_sword_03
+  - first:
+      33: 3300068
+    second: barbarian_sword_04
+  - first:
+      33: 3300070
+    second: barbarian_sword_gladius
+  - first:
+      43: 4300000
+    second: shield_01
+  - first:
+      43: 4300002
+    second: shield_02
+  - first:
+      43: 4300004
+    second: dwarf_axe_01
+  - first:
+      43: 4300006
+    second: dwarf_sword_01
+  - first:
+      43: 4300008
+    second: dwarf_axe_02
+  - first:
+      43: 4300010
+    second: dwarf_axe_05
+  - first:
+      43: 4300012
+    second: dwarf_hammer_01
+  - first:
+      43: 4300014
+    second: dwarf_hammer_02
+  - first:
+      43: 4300016
+    second: dwarf_pickaxe_01
+  - first:
+      43: 4300018
+    second: dwarf_sword_02
+  - first:
+      43: 4300020
+    second: dwarf_axe_04
+  - first:
+      43: 4300022
+    second: dwarf_axe_03
+  - first:
+      43: 4300024
+    second: dwarf_head_hair
+  - first:
+      43: 4300026
+    second: dwarf_helmet_04
+  - first:
+      43: 4300028
+    second: dwarf_helmet_05
+  - first:
+      43: 4300030
+    second: dwarf_helmet_06
+  - first:
+      43: 4300032
+    second: dwarf_helmet_03
+  - first:
+      43: 4300034
+    second: dwarf_helmet_01
+  - first:
+      43: 4300036
+    second: dwarf_helmet_02
+  - first:
+      43: 4300038
+    second: dwarf_belt
+  - first:
+      43: 4300040
+    second: dwarf_head_01
+  - first:
+      43: 4300042
+    second: dwarf_head_beard_01
+  - first:
+      43: 4300044
+    second: dwarf_head_beard_02
+  - first:
+      43: 4300046
+    second: dwarf_shoulder pad_01
+  - first:
+      43: 4300048
+    second: dwarf_shoulder pad_02
+  - first:
+      43: 4300050
+    second: dwarf_shoulder pad_03
+  - first:
+      43: 4300052
+    second: dwarf_discs
+  - first:
+      43: 4300054
+    second: dwarf_fat_body
+  - first:
+      43: 4300056
+    second: dwarf_rgl_body002
+  - first:
+      43: 4300058
+    second: dwarf_arm plate
+  - first:
+      43: 4300060
+    second: dwarf_leg plate
+  - first:
+      43: 4300062
+    second: dwarf_rgl_body
+  - first:
+      43: 4300064
+    second: dwarf_str_body
+  - first:
+      43: 4300066
+    second: dwarf_skn_body
+  - first:
+      43: 4300068
+    second: dwarf_crossbow
+  - first:
+      43: 4300070
+    second: dwarf_rifle
+  - first:
+      43: 4300072
+    second: barbarian_knee_pad_L
+  - first:
+      43: 4300074
+    second: barbarian_leg plate_L
+  - first:
+      43: 4300076
+    second: barbarian_knee_pad_R
+  - first:
+      43: 4300078
+    second: barbarian_leg plate_R
+  - first:
+      43: 4300080
+    second: barbarian_shield
+  - first:
+      43: 4300082
+    second: barbarian_arm plate_02_L
+  - first:
+      43: 4300084
+    second: barbarian_arm plate_01_L
+  - first:
+      43: 4300086
+    second: barbarian_shoulder pad_04_L
+  - first:
+      43: 4300088
+    second: barbarian_shoulder pad_03_L
+  - first:
+      43: 4300090
+    second: barbarian_shoulder pad_02_L
+  - first:
+      43: 4300092
+    second: barbarian_shoulder pad_01_L
+  - first:
+      43: 4300094
+    second: barbarian_sword_03
+  - first:
+      43: 4300096
+    second: barbarian_sword_01
+  - first:
+      43: 4300098
+    second: barbarian_club_03
+  - first:
+      43: 4300100
+    second: barbarian_club_01
+  - first:
+      43: 4300102
+    second: barbarian_club_02
+  - first:
+      43: 4300104
+    second: barbarian_sword_04
+  - first:
+      43: 4300106
+    second: barbarian_sword_02
+  - first:
+      43: 4300108
+    second: barbarian_axe_03
+  - first:
+      43: 4300110
+    second: barbarian_hammer_01
+  - first:
+      43: 4300112
+    second: barbarian_axe_01
+  - first:
+      43: 4300114
+    second: barbarian_axe_02
+  - first:
+      43: 4300116
+    second: barbarian_sword_gladius
+  - first:
+      43: 4300118
+    second: barbarian_spear
+  - first:
+      43: 4300120
+    second: barbarian_arm plate_02_R
+  - first:
+      43: 4300122
+    second: barbarian_arm plate_01_R
+  - first:
+      43: 4300124
+    second: barbarian_shoulder pad_04_R
+  - first:
+      43: 4300126
+    second: barbarian_shoulder pad_03_R
+  - first:
+      43: 4300128
+    second: barbarian_shoulder pad_02_R
+  - first:
+      43: 4300130
+    second: barbarian_shoulder pad_01_R
+  - first:
+      43: 4300132
+    second: barbarian_helmet_03
+  - first:
+      43: 4300134
+    second: barbarian_helmet_02
+  - first:
+      43: 4300136
+    second: barbarian_helmet_01
+  - first:
+      43: 4300138
+    second: barbarian_helmet_04
+  - first:
+      43: 4300140
+    second: barbarian_gladiator_01
+  - first:
+      43: 4300142
+    second: barbarian_belt
+  - first:
+      43: 4300144
+    second: barbarian
+  - first:
+      43: 4300146
+    second: barbarian_hair_01
+  - first:
+      43: 4300148
+    second: barbarian_cloth_01
+  - first:
+      43: 4300150
+    second: barbarian_cloth_02
+  - first:
+      43: 4300152
+    second: barbarian_boot_01
+  - first:
+      43: 4300154
+    second: barbarian_boot_02
+  - first:
+      43: 4300156
+    second: barbarian_cloth_03
+  - first:
+      43: 4300158
+    second: barbarian_fat
+  - first:
+      43: 4300160
+    second: barbarian_skn
+  - first:
+      43: 4300162
+    second: barbarian_fat_cloth_02
+  - first:
+      43: 4300164
+    second: barbarian_fat_cloth_01
+  - first:
+      74: 7400110
+    second: idle
+  - first:
+      74: 7400112
+    second: idle break
+  - first:
+      74: 7400114
+    second: talk
+  - first:
+      74: 7400116
+    second: salute
+  - first:
+      74: 7400118
+    second: crouch
+  - first:
+      74: 7400120
+    second: die1
+  - first:
+      74: 7400122
+    second: die2
+  - first:
+      74: 7400124
+    second: idle to fight idle
+  - first:
+      74: 7400126
+    second: fight idle
+  - first:
+      74: 7400128
+    second: fight idle break
+  - first:
+      74: 7400130
+    second: hit
+  - first:
+      74: 7400132
+    second: punch
+  - first:
+      74: 7400134
+    second: attack1
+  - first:
+      74: 7400136
+    second: attack2
+  - first:
+      74: 7400138
+    second: attack3
+  - first:
+      74: 7400140
+    second: special
+  - first:
+      74: 7400142
+    second: block
+  - first:
+      74: 7400144
+    second: jump
+  - first:
+      74: 7400146
+    second: idle to working
+  - first:
+      74: 7400148
+    second: 'working '
+  - first:
+      74: 7400150
+    second: working to idle
+  - first:
+      74: 7400152
+    second: sit
+  - first:
+      74: 7400154
+    second: sit cheers
+  - first:
+      74: 7400156
+    second: shot
+  - first:
+      74: 7400158
+    second: fight idle to shot
+  - first:
+      74: 7400160
+    second: shot loop
+  - first:
+      74: 7400162
+    second: shot to fight idle
+  - first:
+      74: 7400164
+    second: spear
+  - first:
+      74: 7400166
+    second: attack left
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: barbarian
+  - first:
+      137: 13700002
+    second: barbarian_boot_01
+  - first:
+      137: 13700004
+    second: barbarian_boot_02
+  - first:
+      137: 13700006
+    second: barbarian_cloth_01
+  - first:
+      137: 13700008
+    second: barbarian_cloth_02
+  - first:
+      137: 13700010
+    second: barbarian_cloth_03
+  - first:
+      137: 13700012
+    second: barbarian_fat
+  - first:
+      137: 13700014
+    second: barbarian_fat_cloth_01
+  - first:
+      137: 13700016
+    second: barbarian_fat_cloth_02
+  - first:
+      137: 13700018
+    second: barbarian_hair_01
+  - first:
+      137: 13700020
+    second: barbarian_skn
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break
+      takeName: 
+      internalID: 0
+      firstFrame: 120
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: talk
+      takeName: 
+      internalID: 0
+      firstFrame: 190
+      lastFrame: 290
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: salute
+      takeName: 
+      internalID: 0
+      firstFrame: 290
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: crouch
+      takeName: 
+      internalID: 0
+      firstFrame: 340
+      lastFrame: 365
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die1
+      takeName: 
+      internalID: 0
+      firstFrame: 370
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die2
+      takeName: 
+      internalID: 0
+      firstFrame: 450
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: OnCancelAnim
+        data: dead
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle to fight idle
+      takeName: 
+      internalID: 0
+      firstFrame: 490
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fight idle
+      takeName: 
+      internalID: 0
+      firstFrame: 510
+      lastFrame: 560
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fight idle break
+      takeName: 
+      internalID: 0
+      firstFrame: 560
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      internalID: 0
+      firstFrame: 600
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: punch
+      takeName: 
+      internalID: 0
+      firstFrame: 620
+      lastFrame: 645
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack1
+      takeName: 
+      internalID: 0
+      firstFrame: 645
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.46592128
+        functionName: OnAttack
+        data: attack
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.61881423
+        functionName: OnCancelAnim
+        data: attack
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2
+      takeName: 
+      internalID: 0
+      firstFrame: 670
+      lastFrame: 695
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack3
+      takeName: 
+      internalID: 0
+      firstFrame: 695
+      lastFrame: 725
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: special
+      takeName: 
+      internalID: 0
+      firstFrame: 725
+      lastFrame: 765
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: block
+      takeName: 
+      internalID: 0
+      firstFrame: 765
+      lastFrame: 785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: 
+      internalID: 0
+      firstFrame: 805
+      lastFrame: 850
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle to working
+      takeName: 
+      internalID: 0
+      firstFrame: 850
+      lastFrame: 865
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'working '
+      takeName: 
+      internalID: 0
+      firstFrame: 865
+      lastFrame: 925
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: working to idle
+      takeName: 
+      internalID: 0
+      firstFrame: 925
+      lastFrame: 960
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sit
+      takeName: 
+      internalID: 0
+      firstFrame: 965
+      lastFrame: 1005
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sit cheers
+      takeName: 
+      internalID: 0
+      firstFrame: 1005
+      lastFrame: 1045
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spear
+      takeName: 
+      internalID: 0
+      firstFrame: 1050
+      lastFrame: 1080
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack left
+      takeName: 
+      internalID: 0
+      firstFrame: 1080
+      lastFrame: 1105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 2f4122f2acd02d84aba3553115349c36
+  - c043052c067fba5468fc4dfae135cb11
+  - 420fbf307cc4ec3498bd94c1daa4af4f
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

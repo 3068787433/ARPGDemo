@@ -1,0 +1,27 @@
+# 忽略 Visual Studio 生成的文件和文件夹
+.vs/
+.vsconfig
+ARPG3.6new.sln
+ARPGDemo.CSharp.Editor.csproj
+ARPGDemo.CSharp.csproj
+ARPGDemo.CSharp.csproj.user
+ARPGDemo.sln
+ARPGDemo.v12.suo
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+CFXR.WelcomeScreen.csproj
+CFXRDemo.csproj
+CFXREditor.csproj
+CFXRRuntime.csproj
+*.csproj
+
+# 忽略不需要的文件和文件夹
+Class1.cs
+ClassDiagram1.cd
+Library/
+Logs/
+Packages/
+obj/
+unitypackage.unitypackage
+unitypackage/
+UserSettings/

@@ -1,0 +1,8 @@
+Cube=Cube
+Sphere=Sphere
+rune 10=FX/Player/rune 10
+selected=FX/Player/selected
+BaseMeleeAttackSkill=Skill/BaseMeleeAttackSkill
+CircleAttackSkill=Skill/CircleAttackSkill
+SectorAttackSkill=Skill/SectorAttackSkill
+Hit_Ice_Chest=Skill/HitFx/Hit_Ice_Chest
